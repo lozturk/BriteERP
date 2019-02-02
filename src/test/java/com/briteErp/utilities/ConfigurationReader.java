@@ -10,7 +10,7 @@ import java.util.Properties;
 
         // read the properties file
         static {
-            String path = "configuration.properties";
+            String path = "Configuration.properties";
 
             try {
                 FileInputStream fileInputStream = new FileInputStream(path);

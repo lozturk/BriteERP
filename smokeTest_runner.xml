@@ -3,10 +3,10 @@
 
     <test name=" Smoke Tests">
         <classes>
-            <class name="com.briteerp.tests.smoke_tests.login.PositiveSalesManagerLoginTests"/>
-            <class name="com.briteerp.tests.smoke_tests.login.PositiveUserLevel2LoginTest"/>
-            <class name="com.briteerp.tests.smoke_tests.login.NegativeSalesManagerLoginTests"/>
-            <class name="com.briteerp.tests.smoke_tests.login.NegativeSalesUser2LoginTests"/>
+            <class name="com.briteErp.tests.SmokeTests.PositiveCRMManagerLoginTest"/>
+            <class name="com.briteErp.tests.SmokeTests.PositiveCRMUserLoginTest"/>
+            <class name="com.briteErp.tests.SmokeTests.NegativeCRMManagerLoginTest"/>
+            <class name="com.briteErp.tests.SmokeTests.NegativeCRMUserLoginTest"/>
 
         </classes>
     </test>
