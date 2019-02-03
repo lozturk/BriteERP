@@ -1,18 +1,17 @@
 package com.briteErp.utilities;
 
-import com.briteErp.pages.*;
 import com.briteErp.pages.LoginPage;
+import com.briteErp.pages.PipelinePage;
+import com.briteErp.pages.UserCrmPipelineChangeOpportunityInfoPage;
+import com.briteErp.pages.UserCrmPipelinePage;
+
 
 public class PageFactory {
 
     private LoginPage loginPage;
     private PipelinePage pipelinePage;
     private UserCrmPipelinePage userCrmPipelinePage;
-    private UserCrmPipelineChangeOppurtunityInfoPage changeOppurtunityInfoPage;
-//    private CatalogPage catalogPage;
-//    private OrdersPage ordersPage;
-//    private ConfigurationPage configurationPage;
-//    private ReportingPage reportingPage;
+    private UserCrmPipelineChangeOpportunityInfoPage changeOpportunityInfoPage;
 
     public LoginPage login() {
         if (loginPage == null) {
@@ -35,39 +34,11 @@ public class PageFactory {
         return userCrmPipelinePage;
     }
 
-    public UserCrmPipelineChangeOppurtunityInfoPage changeOppurtunityInfoPage() {
-        if (changeOppurtunityInfoPage == null) {
-            changeOppurtunityInfoPage= new UserCrmPipelineChangeOppurtunityInfoPage();
+    public UserCrmPipelineChangeOpportunityInfoPage changeOpportunityInfoPage() {
+        if (changeOpportunityInfoPage == null) {
+            changeOpportunityInfoPage= new UserCrmPipelineChangeOpportunityInfoPage();
         }
-        return changeOppurtunityInfoPage;
+        return changeOpportunityInfoPage;
     }
 
-//
-//    public CatalogPage getCatalogPage() {
-//        if (catalogPage == null) {
-//            catalogPage = new CatalogPage();
-//        }
-//        return catalogPage;
-//    }
-//
-//    public OrdersPage getOrdersPage() {
-//        if (ordersPage == null) {
-//            ordersPage = new OrdersPage();
-//        }
-//        return ordersPage;
-//    }
-//
-//    public ConfigurationPage getConfigurationPage() {
-//        if (configurationPage == null) {
-//            configurationPage = new ConfigurationPage();
-//        }
-//        return configurationPage;
-//    }
-//
-//    public ReportingPage getReportingPage () {
-//        if (reportingPage == null) {
-//            reportingPage = new ReportingPage();
-//        }
-//        return reportingPage;
-//    }
 }
