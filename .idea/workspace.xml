@@ -320,7 +320,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox">
+  <component name="RunManager" selected="TestNG.CRMmanagerPipelineTest">
+    <configuration name="CRMmanagerPipelineTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriteERP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briteErp.tests.FunctionalTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
+      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.CRMmanagerPipelineTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CRMmanagerPipelineTest.BRIT_1408" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP" />
       <extension name="coverage">
@@ -339,72 +355,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteERP_Kurt" />
+    <configuration name="NegativeCRMManagerLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.briteErp.tests.FunctionalTests.*" />
+          <option name="PATTERN" value="com.briteErp.tests.SmokeTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
-      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.UserCRMPipelineCreateAndImportTests" />
-      <option name="METHOD_NAME" value="changeOpportunityInformation" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.briteErp.tests.SmokeTests" />
+      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.SmokeTests.NegativeCRMManagerLoginTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserCRMPipelineCreateAndImportTests.clearingSearchBox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteERP_Kurt" />
+    <configuration name="NegativeCRMUserLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.briteErp.tests.FunctionalTests.*" />
+          <option name="PATTERN" value="com.briteErp.tests.SmokeTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
-      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.UserCRMPipelineCreateAndImportTests" />
-      <option name="METHOD_NAME" value="clearingSearchBox" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.briteErp.tests.SmokeTests" />
+      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.SmokeTests.NegativeCRMUserLoginTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserCRMPipelineCreateAndImportTests.createOpportunityTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteERP_Kurt" />
+    <configuration name="PositiveCRMUserLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.briteErp.tests.FunctionalTests.*" />
+          <option name="PATTERN" value="com.briteErp.tests.SmokeTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
-      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.UserCRMPipelineCreateAndImportTests" />
-      <option name="METHOD_NAME" value="createOpportunityTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserCRMPipelineCreateAndImportTests.pipelineClickTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteERP_Kurt" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.briteErp.tests.FunctionalTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
-      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.UserCRMPipelineCreateAndImportTests" />
-      <option name="METHOD_NAME" value="pipelineClickTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.briteErp.tests.SmokeTests" />
+      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.SmokeTests.PositiveCRMUserLoginTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -412,19 +404,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.NegativeCRMManagerLoginTest" />
+      <item itemvalue="TestNG.NegativeCRMUserLoginTest" />
+      <item itemvalue="TestNG.PositiveCRMUserLoginTest" />
+      <item itemvalue="TestNG.CRMmanagerPipelineTest" />
       <item itemvalue="TestNG.CRMmanagerPipelineTest.BRIT_1408" />
-      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
-      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.createOpportunityTest" />
-      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
-      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
-        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
-        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.createOpportunityTest" />
-        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
         <item itemvalue="TestNG.CRMmanagerPipelineTest.BRIT_1408" />
+        <item itemvalue="TestNG.CRMmanagerPipelineTest" />
+        <item itemvalue="TestNG.PositiveCRMUserLoginTest" />
+        <item itemvalue="TestNG.NegativeCRMUserLoginTest" />
+        <item itemvalue="TestNG.NegativeCRMManagerLoginTest" />
       </list>
     </recent_temporary>
   </component>
