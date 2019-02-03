@@ -32,18 +32,7 @@ public class CRMmanagerPipelineTest extends TestBase {
     softAssert.assertEquals(pages.getPipelinePage().getpipelineTitle(), ApplicationConstants.PIPELINE_TITLE);
 
     extentLogger.info("Verifying the Pipeline func. is clickable");
-    //softAssert.assertEquals(pages.getPipelinePage().getpipelineTitle(), ApplicationConstants.PIPELINE_TITLE);
-
-
-
-
-
-
-
-
-
-
-
+    //softAssert.assertEquals(pages.getPipelinePage().getpipelineTitle(),ApplicationConstants.PIPELINE_TITLE);
 
     }
 
