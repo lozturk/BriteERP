@@ -93,8 +93,8 @@ public class UserCRMPipelineCreateAndImportTests extends TestBase {
         positiveLoginTest();
 //        1.4.1 Click on pipeline tab under main pipeline button.
         pages.userCrmPipelinePage().pipelineLink.click();
-//        1.4.2 Clear the search box by clicking the x.
-        pages.userCrmPipelinePage().xIconOnSearchBox.click();
+////        1.4.2 Clear the search box by clicking the x.
+//        pages.userCrmPipelinePage().xIconOnSearchBox.click();
     }
 
     @Test
