@@ -11,6 +11,7 @@ import org.testng.annotations.*;
 import org.testng.asserts.SoftAssert;
 
 import java.io.IOException;
+import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
 
@@ -83,6 +84,28 @@ public class TestBase {
 
     }
 
+    // Method for login to CRM module as user
+    public void positiveLoginTest() {
+
+        //        1.1.1 Open the URL
+        pages.login().BriteErpDemo.click();
+//        1.1.2 Login using valid username and password as CRM user.
+        pages.login().signIn.click();
+        pages.login().email.sendKeys(ConfigurationReader.getProperty("CRMUserEmail"));
+        pages.login().password.sendKeys(ConfigurationReader.getProperty("CRMUserPassword"));
+        pages.login().loginButton.click();
+//        1.1.3 Click on CRM tab on top.
+        pages.login().CRMButton.click();
+
+    }
+    // Method for sending random numbers to required areas
+    public String randomQuantity() {
+        Random r = new Random();
+        int qtty = r.nextInt(1000) + 1;
+        String rndmQuantity = (" " + qtty + " ").trim();
+
+        return rndmQuantity;
+    }
 
     @AfterTest
     public void tearDownTest() {
