@@ -150,11 +150,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="836" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -352,15 +351,15 @@
     <list>
       <item itemvalue="TestNG.CRMmanagerPipelineTest" />
       <item itemvalue="TestNG.CRMmanagerPipelineTest.BRIT_1408" />
-      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
       <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
+      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
       <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
         <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
         <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
+        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
         <item itemvalue="TestNG.CRMmanagerPipelineTest.BRIT_1408" />
         <item itemvalue="TestNG.CRMmanagerPipelineTest" />
       </list>
