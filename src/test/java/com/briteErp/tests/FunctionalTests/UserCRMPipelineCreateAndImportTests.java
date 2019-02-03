@@ -30,7 +30,7 @@ public class UserCRMPipelineCreateAndImportTests extends TestBase {
 
     @Test
     public void createOpportunityTest(){
-        extentLogger = report.createTest("Create an Oppurtunity as User");
+        extentLogger = report.createTest("Create an Opportunity as User");
 
 //      using a method created in Testbase to login
         positiveLoginTest();
@@ -68,22 +68,22 @@ public class UserCRMPipelineCreateAndImportTests extends TestBase {
         Thread.sleep(3000);
 
         extentLogger.info("1.3.1 Click on the new oppurtunity created.");
-        pages.changeOppurtunityInfoPage().newCreatedOppurtunity.click();
+        pages.changeOpportunityInfoPage().newCreatedOppurtunity.click();
         Thread.sleep(2000);
 
         extentLogger.info("1.3.2 Click on edit button");
-        pages.changeOppurtunityInfoPage().editButton.click();
+        pages.changeOpportunityInfoPage().editButton.click();
         Thread.sleep(2000);
 
         extentLogger.info("1.3.3 Change any information needed.");
-        pages.changeOppurtunityInfoPage().infoNeededToChange.clear();
+        pages.changeOpportunityInfoPage().infoNeededToChange.clear();
         Thread.sleep(2000);
 
-        pages.changeOppurtunityInfoPage().infoNeededToChange.sendKeys("2019 Huge Sale 2");
+        pages.changeOpportunityInfoPage().infoNeededToChange.sendKeys("2019 Huge Sale 2");
         Thread.sleep(2000);
 
         extentLogger.info("1.3.4 Save the changes by clicking save button.");
-        pages.changeOppurtunityInfoPage().saveButton.click();
+        pages.changeOpportunityInfoPage().saveButton.click();
 
     }
 

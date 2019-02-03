@@ -8,7 +8,7 @@ public class PageFactory {
     private LoginPage loginPage;
     private PipelinePage pipelinePage;
     private UserCrmPipelinePage userCrmPipelinePage;
-    private UserCrmPipelineChangeOpportunityInfoPage changeOppurtunityInfoPage;
+    private UserCrmPipelineChangeOpportunityInfoPage changeOpportunityInfoPage;
 //    private CatalogPage catalogPage;
 //    private OrdersPage ordersPage;
 //    private ConfigurationPage configurationPage;
@@ -35,11 +35,11 @@ public class PageFactory {
         return userCrmPipelinePage;
     }
 
-    public UserCrmPipelineChangeOpportunityInfoPage changeOppurtunityInfoPage() {
-        if (changeOppurtunityInfoPage == null) {
-            changeOppurtunityInfoPage= new UserCrmPipelineChangeOpportunityInfoPage();
+    public UserCrmPipelineChangeOpportunityInfoPage changeOpportunityInfoPage() {
+        if (changeOpportunityInfoPage == null) {
+            changeOpportunityInfoPage= new UserCrmPipelineChangeOpportunityInfoPage();
         }
-        return changeOppurtunityInfoPage;
+        return changeOpportunityInfoPage;
     }
 
 //
