@@ -4,7 +4,6 @@
 .settings/
 
 # Intellij
-.idea/
 *.iml
 *.iws
 
@@ -16,3 +15,4 @@ log/
 target/
 
 test_output/
+.idea/
