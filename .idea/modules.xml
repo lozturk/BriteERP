@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BriteERP.iml" filepath="$PROJECT_DIR$/BriteERP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BriteERP_Kurt.iml" filepath="$PROJECT_DIR$/BriteERP_Kurt.iml" />
     </modules>
   </component>
 </project>
