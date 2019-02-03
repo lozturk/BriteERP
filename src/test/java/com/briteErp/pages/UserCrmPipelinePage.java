@@ -30,5 +30,8 @@ public class UserCrmPipelinePage {
     @FindBy(xpath = "//tbody//tr[4]//td[2]//div//a[2]")
     public WebElement priority;
 
+    @FindBy(xpath = "//div[@class='fa fa-sm fa-remove o_facet_remove']")
+    public WebElement xIconOnSearchBox;
+
 
 }

@@ -86,4 +86,17 @@ public class UserCRMPipelineCreateAndImportTests extends TestBase {
 
     }
 
+    @Test
+    public void clearingSearchBox(){
+
+        positiveLoginTest();
+//        1.4.1 Click on pipeline tab under main pipeline button.
+//        1.4.2 Clear the search box by clicking the x.
+        pages.userCrmPipelinePage().xIconOnSearchBox.click();
+    }
+
+
+
+
+
 }
