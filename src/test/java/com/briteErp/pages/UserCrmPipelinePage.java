@@ -12,7 +12,7 @@ public class UserCrmPipelinePage {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
-    @FindBy(xpath = "//ul//li[2]//a[@href='/web#menu_id=120&action=136']")
+    @FindBy(xpath = "//a[@data-menu-xmlid='crm.menu_crm_opportunities']")
     public WebElement pipelineLink;
 
     @FindBy(xpath = "//button[@class='btn btn-primary btn-sm o-kanban-button-new']")
@@ -29,6 +29,13 @@ public class UserCrmPipelinePage {
 
     @FindBy(xpath = "//tbody//tr[4]//td[2]//div//a[2]")
     public WebElement priority;
+
+    @FindBy(xpath = "//div[@class='fa fa-sm fa-remove o_facet_remove']")
+    public WebElement xIconOnSearchBox;
+
+
+
+
 
 
 }

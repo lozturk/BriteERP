@@ -24,6 +24,7 @@ public class UserCRMPipelineCreateAndImportTests extends TestBase {
         pages.login().loginButton.click();
         extentLogger.info(" 1.1.3 Click on CRM tab on top.");
         pages.login().CRMButton.click();
+        pages.userCrmPipelinePage().pipelineLink.click();
 
     }
 
@@ -85,5 +86,72 @@ public class UserCRMPipelineCreateAndImportTests extends TestBase {
         pages.changeOppurtunityInfoPage().saveButton.click();
 
     }
+
+    @Test
+    public void clearingSearchBox(){
+
+        positiveLoginTest();
+//        1.4.1 Click on pipeline tab under main pipeline button.
+        pages.userCrmPipelinePage().pipelineLink.click();
+//        1.4.2 Clear the search box by clicking the x.
+        pages.userCrmPipelinePage().xIconOnSearchBox.click();
+    }
+
+    @Test
+    public void searchOpportunity(){
+
+        positiveLoginTest();
+//        1.5.1 Click on search button.
+//        1.5.2 Enter the name of newly created oppurtunity.
+//        1.5.3 Verify the name of the oppurtunity is matching with the name of oppurtunity created.
+    }
+
+    @Test
+    public void importAFile(){
+
+        positiveLoginTest();
+//        1.6.1 Click on ""Import"" button
+//        1.6.2 Verify the the title includes ""Import a File""
+//        1.6.3 Click on ""Load File"" button.
+//        1.6.4 Click on ""Import"" button.
+
+    }
+
+    @Test
+    public void verifyCreateAndImport(){
+
+        positiveLoginTest();
+//        1.7.1 Click on CRM module.
+//        1.7.2 Click on Pipeline
+//        1.7.3 Verify the ""Create"" and ""import"" buttons are excisting.
+
+    }
+
+    @Test
+    public void itemUnderQualified(){
+
+        positiveLoginTest();
+//        2.1.1 Click on any title under Qualified.
+//        2.1.2 Verify that the title selected is under the correct category.
+    }
+
+    @Test
+    public void changeStatusAsWon(){
+
+        positiveLoginTest();
+//        2.2.1 Click on ""Mark Won""
+//        2.2.2 Verify that the status has changed to ""won"".
+    }
+
+    @Test
+    public void changeStatusAsLost(){
+
+        positiveLoginTest();
+//        2.3.1 Click on ""Mark Lost""
+//        2.3.2 ßelect any reason to change the status.
+//        2.3.3 Click on submit.
+//        2.3.2 Verify that the status has changed to ""lost"".
+    }
+
 
 }

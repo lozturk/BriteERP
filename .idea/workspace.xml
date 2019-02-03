@@ -209,7 +209,7 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.CRMmanagerPipelineTest">
-    <configuration name="CRMmanagerPipelineTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CRMmanagerPipelineTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
@@ -225,7 +225,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CRMmanagerPipelineTest.BRIT_1408" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CRMmanagerPipelineTest.BRIT_1408" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
@@ -243,7 +243,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegativeCRMManagerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegativeCRMManagerLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
@@ -259,7 +259,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NegativeCRMUserLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NegativeCRMUserLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
@@ -275,7 +275,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveCRMUserLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveCRMUserLoginTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
@@ -291,6 +291,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.NegativeCRMManagerLoginTest" />
+      <item itemvalue="TestNG.NegativeCRMUserLoginTest" />
+      <item itemvalue="TestNG.PositiveCRMUserLoginTest" />
+      <item itemvalue="TestNG.CRMmanagerPipelineTest" />
+      <item itemvalue="TestNG.CRMmanagerPipelineTest.BRIT_1408" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.CRMmanagerPipelineTest" />
