@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afdd75e5-fde6-4009-bf35-4ba832ebab24" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelineChangeOppurtunityInfoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelineChangeOpportunityInfoPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelinePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelinePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/UserCRMPipelineCreateAndImportTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/UserCRMPipelineCreateAndImportTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/PageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/PageFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/briteErp/utilities/PageFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/briteErp/utilities/PageFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,80 +12,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1813656671">
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="13" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="13" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="55" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="55" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/UserCRMPipelineCreateAndImportTests.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/PositiveCRMManagerLoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-445">
-              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelineChangeOpportunityInfoPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="182" selection-start-line="7" selection-start-column="182" selection-end-line="7" selection-end-column="182" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelinePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/PipelinePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -156,18 +83,23 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="BriteERP" type="b2602c69:ProjectViewProjectNode" />
               <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BriteERP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BriteERP" type="b2602c69:ProjectViewProjectNode" />
@@ -230,17 +162,33 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="SmokeTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BriteERP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="briteErp" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BriteERP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BriteERP" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549169248434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549241091268" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -260,24 +208,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox">
-    <configuration name="CRMmanagerPipelineTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BriteERP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.briteErp.tests.FunctionalTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
-      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.CRMmanagerPipelineTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CRMmanagerPipelineTest.BRIT_1408" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PositiveCRMManagerLoginTest">
+    <configuration name="CRMmanagerPipelineTest.BRIT_1408" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
@@ -295,7 +227,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PositiveCRMManagerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriteERP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briteErp.tests.SmokeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.briteErp.tests.SmokeTests" />
+      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.SmokeTests.PositiveCRMManagerLoginTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP_Kurt" />
       <extension name="coverage">
         <pattern>
@@ -313,7 +261,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserCRMPipelineCreateAndImportTests.clearingSearchBox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UserCRMPipelineCreateAndImportTests.clearingSearchBox" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP_Kurt" />
       <extension name="coverage">
         <pattern>
@@ -331,7 +279,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserCRMPipelineCreateAndImportTests.pipelineClickTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UserCRMPipelineCreateAndImportTests.pipelineClickTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BriteERP_Kurt" />
       <extension name="coverage">
         <pattern>
@@ -350,19 +298,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.CRMmanagerPipelineTest" />
       <item itemvalue="TestNG.CRMmanagerPipelineTest.BRIT_1408" />
       <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
       <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
       <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
+      <item itemvalue="TestNG.PositiveCRMManagerLoginTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PositiveCRMManagerLoginTest" />
         <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
         <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
         <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
         <item itemvalue="TestNG.CRMmanagerPipelineTest.BRIT_1408" />
-        <item itemvalue="TestNG.CRMmanagerPipelineTest" />
       </list>
     </recent_temporary>
   </component>
@@ -380,9 +328,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CRMmanagerPipelineTest_BRIT_1408 - 2019.02.02 at 09h 55m 56s.xml">
-      <configuration name="CRMmanagerPipelineTest.BRIT_1408" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CRMmanagerPipelineTest - 2019.02.02 at 10h 10m 20s.xml">
       <configuration name="CRMmanagerPipelineTest" configurationId="TestNG" />
     </history-entry>
@@ -410,30 +355,32 @@
     <history-entry file="UserCRMPipelineCreateAndImportTests_changeOpportunityInformation - 2019.02.02 at 23h 40m 55s.xml">
       <configuration name="UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="PositiveCRMManagerLoginTest - 2019.02.03 at 19h 44m 34s.xml">
+      <configuration name="PositiveCRMManagerLoginTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="836" extended-state="6" />
-    <editor active="true" />
+    <frame x="1420" y="-8" width="1394" height="916" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20529328" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33808097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.3293011" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48655915" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48655915" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286385" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32799014" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3266129" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3293011" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -559,11 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/PositiveCRMManagerLoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
