@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="127de245-58a3-4c24-a0c6-a02a4e278ada" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="afdd75e5-fde6-4009-bf35-4ba832ebab24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/CRMmanagerPipelineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/CRMmanagerPipelineTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +40,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/UserCRMPipelineCreateAndImportTests.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1425">
@@ -54,9 +63,36 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+=======
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/PositiveCRMManagerLoginTest.java">
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3270">
               <caret line="218" column="10" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/CRMmanagerPipelineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/UserCRMPipelineCreateAndImportTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,8 +112,35 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/smokeTest_runner.xml" />
+        <option value="$PROJECT_DIR$/testCase_runner.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/pages/pages/Pages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/pages/Pages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/tests/PositiveCRMManagerLoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/Constants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/Driver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/ConfigurationReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/NegativeCRMManagerLoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/PositiveCRMManagerLoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/PositiveCRMUserLoginTest.java" />
+        <option value="$PROJECT_DIR$/Configuration.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/NegativeCRMUserLoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/ApplicationConstants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/pages/PipelinePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/BrowserUtilities.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/utilities/PageFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelinePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/UserCRMPipelineCreateAndImportTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelineChangeOpportunityInfoPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/CRMmanagerPipelineTest.java" />
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
       </list>
     </option>
   </component>
@@ -210,7 +273,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549245012044" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549244258318" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.briteErp.utilities" />
+    </key>
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -224,8 +297,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="TestNG.UserCRMPipelineCreateAndImportTests.createOpportunityTest">
     <configuration name="UserCRMPipelineCreateAndImportTests.createOpportunityTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="TestNG.CRMmanagerPipelineTest">
+    <configuration name="CRMmanagerPipelineTest" type="TestNG" temporary="true" nameIsGenerated="true">
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
       <module name="BriteERP" />
       <extension name="coverage">
         <pattern>
@@ -234,6 +312,41 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
+<<<<<<< HEAD
+=======
+      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.CRMmanagerPipelineTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveCRMManagerLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriteERP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briteErp.tests.SmokeTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.briteErp.tests.SmokeTests" />
+      <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.SmokeTests.PositiveCRMManagerLoginTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BriteERP_Kurt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briteErp.tests.FunctionalTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.briteErp.tests.FunctionalTests" />
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
       <option name="MAIN_CLASS_NAME" value="com.briteErp.tests.FunctionalTests.UserCRMPipelineCreateAndImportTests" />
       <option name="METHOD_NAME" value="createOpportunityTest" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -262,12 +375,27 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
       <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.createOpportunityTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.createOpportunityTest" />
+=======
+      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
+      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
+      <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
+      <item itemvalue="TestNG.PositiveCRMManagerLoginTest" />
+      <item itemvalue="TestNG.CRMmanagerPipelineTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CRMmanagerPipelineTest" />
+        <item itemvalue="TestNG.PositiveCRMManagerLoginTest" />
+        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.clearingSearchBox" />
+        <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.changeOpportunityInformation" />
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
         <item itemvalue="TestNG.UserCRMPipelineCreateAndImportTests.pipelineClickTest" />
       </list>
     </recent_temporary>
@@ -298,12 +426,20 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" />
+=======
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48581997" />
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6770538" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40197286" />
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -348,9 +484,229 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/armut.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/onurpage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/merhaba.java" />
+=======
+    <entry file="file://$PROJECT_DIR$/smokeTest_runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase_runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BriteERP.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" lean-forward="true" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/CRMManagerQuotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/ScreenshotspositiveLoginTest20190202125331.png" />
+    <entry file="file://$PROJECT_DIR$/test-output/ScreenshotspositiveLoginTest20190202125746.png" />
+    <entry file="file://$PROJECT_DIR$/test-output/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/NegativeCRMUserLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/PositiveCRMUserLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/QuotationsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/PositiveCRMManagerLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/utilities/BrowserUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="281" selection-start-line="281" selection-end-line="281" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5556#5557#0" expanded="true" />
+            <element signature="e#5605#5606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/utilities/ConfigurationReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/SmokeTests/NegativeCRMManagerLoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/utilities/ApplicationConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/utilities/PageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/PipelinePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelinePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/pages/UserCrmPipelineChangeOpportunityInfoPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="182" selection-start-line="7" selection-start-column="182" selection-end-line="7" selection-end-column="182" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/UserCRMPipelineCreateAndImportTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/briteErp/tests/FunctionalTests/CRMmanagerPipelineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 5a060e20a11257b76bddd29f159a505d7b8b5f0d
   </component>
   <component name="masterDetails">
     <states>
